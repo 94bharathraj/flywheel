@@ -1,0 +1,5 @@
+- Provide terraform for a 3-tier network with Postgres rds, fault tolerance, and load balancing - **please use multiple terraform state files.**
+- Provide a network diagram for the 3-tier network - please use strictly AWS.
+- Provide a helm chart for a Java application, and please specify scaling and resources.
+- Provide a diagram of a standard git-flow merge to main with deployment. Please use git cli commands to demonstrate the process.
+- This can be placed in a git repo of your choice.
